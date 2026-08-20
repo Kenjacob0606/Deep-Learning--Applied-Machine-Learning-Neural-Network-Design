@@ -1,4 +1,4 @@
-# DEEP: Deep Learning — Open Individual Assessment
+# DEEP: Deep Learning
 
 ## Contents
 
