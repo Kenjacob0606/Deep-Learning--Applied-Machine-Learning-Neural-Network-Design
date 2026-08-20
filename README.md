@@ -5,7 +5,6 @@
 - `deep.ipynb` — Main Jupyter notebook containing code, results, and written
   answers for Questions 1–5 (linear regression models, decision trees/PCA,
   word embeddings, orbital decay regression, and dice product prediction).
-- `deep.pdf` — Exported PDF of the notebook after full execution.
 - `predict_decay.py` — Standalone script exposing `predict(parameters)` for
   Question 4 (orbital decay time regression).
 - `predict_product.py` — Standalone script exposing `predict(images)` for
